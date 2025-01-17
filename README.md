@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feliciabengtsson
 - 👀 I’m interested in games, art, nerdery and nature.
-- 🌱 I’m currently learning JavaScript and Vue, node.js, Vite
+- 🌱 I’m currently learning JavaScript and Vue, node.js, Vite (A little Angular on the side)
 - 📫 How to reach me: please e-mail me on bengtssonfelicia@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a pretty good baker!
